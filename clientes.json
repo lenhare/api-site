@@ -1,0 +1,20 @@
+[
+    {
+        "id": "l1cq2b4hh",
+        "nome": "André Lopes",
+        "email": "andre@fusame.com",
+        "telefone": "19 99999-8888"
+    },
+    {
+        "id": "a4044vjk1",
+        "nome": "Renan Lenhare",
+        "email": "lenhare@outlook.com",
+        "telefone": "19 99999-9999"
+    },
+    {
+        "id": "99vbppr94",
+        "nome": "Agnaldo Aparecido",
+        "email": "agnaldo@fusame.com",
+        "telefone": "19 99999-7777"
+    }
+]
